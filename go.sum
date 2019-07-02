@@ -1,7 +1,7 @@
 github.com/8power/ublox-bluetooth v0.0.0-20190702104126-0b3f747f7c9b h1:VMa0xIo1JfyF/tqIK0Cxe65kPX/vEq64GJxbU84NF9k=
 github.com/8power/ublox-bluetooth v0.0.0-20190702104126-0b3f747f7c9b/go.mod h1:yZHJ+pWGs237iacO3Fs4fI11wbw1kcWMy8er8yDQUlA=
-github.com/RobHumphris/veh-structs v0.0.0-20190702114838-4eae435dbe41 h1:JsFrobKhl5sLBEAGevOgshOK0AjAvKEVP4YNyDSvbi8=
-github.com/RobHumphris/veh-structs v0.0.0-20190702114838-4eae435dbe41/go.mod h1:4t1Yfxz6U4VBG9Jx1Bm8/sweBCx3CBk/8DrTOhXvX+0=
+github.com/RobHumphris/veh-structs v0.0.0-20190702135259-166c326c9785 h1:Z8FhSpuqE9V7h0VS69D23BPIi/gM3KvUMaDogYnKCLs=
+github.com/RobHumphris/veh-structs v0.0.0-20190702135259-166c326c9785/go.mod h1:4t1Yfxz6U4VBG9Jx1Bm8/sweBCx3CBk/8DrTOhXvX+0=
 github.com/avast/retry-go v2.2.0+incompatible h1:m+w7mVLWa/oKqX2xYqiEKQQkeGH8DDEXB/XnjS54Wyw=
 github.com/avast/retry-go v2.2.0+incompatible/go.mod h1:XtSnn+n/sHqQIpZ10K1qAevBhOOCWBLXXy3hyiqqBrY=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
