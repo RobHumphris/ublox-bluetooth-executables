@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/RobHumphris/ublox-bluetooth/serial"
+	"github.com/8power/ublox-bluetooth/serial"
 )
 
 func main() {

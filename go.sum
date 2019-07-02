@@ -1,5 +1,5 @@
-github.com/RobHumphris/ublox-bluetooth v0.0.0-20190415100852-6d23c15c4801 h1:Wh0bbBtaGU1jJWsynISxG+uFjx+eszkVB5UY+Gsq4p4=
-github.com/RobHumphris/ublox-bluetooth v0.0.0-20190415100852-6d23c15c4801/go.mod h1:mHsd7p0sZcY93TjB+UJExQGzG7ZBln5e8dn0zaCn6rw=
+github.com/8power/ublox-bluetooth v0.0.0-20190702104126-0b3f747f7c9b h1:VMa0xIo1JfyF/tqIK0Cxe65kPX/vEq64GJxbU84NF9k=
+github.com/8power/ublox-bluetooth v0.0.0-20190702104126-0b3f747f7c9b/go.mod h1:yZHJ+pWGs237iacO3Fs4fI11wbw1kcWMy8er8yDQUlA=
 github.com/RobHumphris/veh-structs v0.0.0-20190617123805-32487fca9c76 h1:XsTPAedLHCNGBa1bEwLW8I2iqbrDFc312oFl4K/gvH0=
 github.com/RobHumphris/veh-structs v0.0.0-20190617123805-32487fca9c76/go.mod h1:4t1Yfxz6U4VBG9Jx1Bm8/sweBCx3CBk/8DrTOhXvX+0=
 github.com/avast/retry-go v2.2.0+incompatible/go.mod h1:XtSnn+n/sHqQIpZ10K1qAevBhOOCWBLXXy3hyiqqBrY=
@@ -8,6 +8,8 @@ github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/gogo/protobuf v1.2.1 h1:/s5zKNz0uPFCZ5hddgPdo2TK2TVrUNMn0OOX8/aZMTE=
 github.com/gogo/protobuf v1.2.1/go.mod h1:hp+jE20tsWTFYpLwKvXlhS1hjn+gTNwPg2I6zVXpSg4=
 github.com/google/martian v2.1.0+incompatible/go.mod h1:9I4somxYTbIHy5NJKHRl3wXiIaQGbYVAs8BPL6v8lEs=
+github.com/howeyc/crc16 v0.0.0-20171223171357-2b2a61e366a6 h1:IIVxLyDUYErC950b8kecjoqDet8P5S4lcVRUOM6rdkU=
+github.com/howeyc/crc16 v0.0.0-20171223171357-2b2a61e366a6/go.mod h1:JslaLRrzGsOKJgFEPBP65Whn+rdwDQSk0I0MCRFe2Zw=
 github.com/kisielk/errcheck v1.1.0/go.mod h1:EZBBE59ingxPouuu3KfxchcWSUPOHkagtvWXihfKN4Q=
 github.com/kisielk/errcheck v1.2.0/go.mod h1:/BMXB+zMLi60iA8Vv6Ksmxu/1UDYcXs4uQLJ+jE2L00=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=

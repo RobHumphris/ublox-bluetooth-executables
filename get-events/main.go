@@ -9,7 +9,7 @@ import (
 	"log"
 	"time"
 
-	ub "github.com/RobHumphris/ublox-bluetooth"
+	ub "github.com/8power/ublox-bluetooth"
 	"github.com/RobHumphris/veh-structs/vehdata"
 	"github.com/gogo/protobuf/proto"
 	"github.com/pkg/errors"

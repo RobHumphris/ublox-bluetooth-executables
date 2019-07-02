@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	ub "github.com/RobHumphris/ublox-bluetooth"
-	"github.com/RobHumphris/ublox-bluetooth/serial"
+	ub "github.com/8power/ublox-bluetooth"
+	"github.com/8power/ublox-bluetooth/serial"
 )
 
 func TestReset(t *testing.T) {
